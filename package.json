@@ -1,7 +1,7 @@
 {
-  "name": "Cranach Website Demo",
+  "name": "CN Abschlussarbeiten Demo",
   "version": "1.0.0",
-  "description": "Relaunch of the Cranach website with a focus on HTML and CSS.",
+  "description": "Trainingsprojekt für FD 2025.",
   "main": "index.js",
   "scripts": {
     "lint": "stylelint styles/**/*.css",

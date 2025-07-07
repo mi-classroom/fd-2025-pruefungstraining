@@ -150,7 +150,7 @@ Storypoints: 5
 Erzeugen Sie die Übersicht mit allen Einträgen via Javascript. Die Inhalte finden Sie in der JSON Datei unter Material. Die URL für das JSON ist wie folgt:
 
 ```
-http://0.0.0.0:4000/works.json
+http://localhost:3000/works.json
 ```
 
 Dauer: 40min
@@ -178,7 +178,7 @@ Erzeugen Sie dynamisch via Javascript die Bildstrecke für die abgeschlossene Ar
 Die zugehörige JSON Datei unter:
 
 ```
-http://0.0.0.0:4000/works/n-pola/04-results/images/metadata.json
+http://localhost:3000/works/n-pola/04-results/images/metadata.json
 ```
 
 Dauer: 30min
