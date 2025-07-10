@@ -17,7 +17,6 @@ npm run dev
   /js                enthält die Javascript Dateien
   /styles            enthält die CSS Dateien
   /uploads           enthält Bilder, die via CMS hochgeladen wurden
-/compiled-assets/    enthält die kompiulierten Assets, z.B. Styles. Hier keine Änderungen vornehmen.
 ```
 😎
 
@@ -112,7 +111,7 @@ Der Ablauf bei der Themenfindung (Vor der Arbeit, Während der Arbeit, Abschluss
 Dauer: 10min
 Storypoints: 3
 
-**HTML, CSS**
+**HTML, CSS, (JS) **
 
 ### F3: Kleine Anpssung des Farbschemas
 
@@ -203,7 +202,7 @@ Storypoints: 1
 
 **HTML, CSS**
 
-### F9: Sektion «Abgeschlossene Arbeiten» ausklappbar machen
+### F9: Sektion «Abgeschlossene Arbeiten» erweiterbar machen
 
 Bei der Übersicht in der Sektion «Abgeschlossene Arbeiten» sollen nur die ersten fünf Arbeiten gezeigt werden. Die weiteren Arbeiten sollen erst nach einem Klick auf den Button «Weitere Arbeiten anzeigen» angezeigt werden. 
 
